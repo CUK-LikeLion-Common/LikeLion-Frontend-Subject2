@@ -1,0 +1,72 @@
+.main-bg {
+  background-image: url(./img/back.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100vw;
+  padding: 10vh;
+  display: block;
+  height: 100vh;
+}
+
+.movie1 {
+  background-image: url(./img/1.jpg);
+  padding: 10px;
+}
+.movie_title {
+  background-color:#f6f5f0;
+  width: auto;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 5px;
+
+}
+.movie_text {
+
+  margin-top:5px;
+ text-size-adjust: auto;
+}
+.movie2 {
+  background-image: url(./img/2.jpg);
+  padding: 10px;
+
+
+}
+.movie3 {
+  background-image: url(./img/3.jpg);
+  padding: 10px;
+
+
+}
+.aaaaa {
+  font-size: 20px;
+  background-color:bisque;
+  border-radius: 10px;
+  padding-left: 30px;
+  padding: 20px;
+
+}
+.logo {
+  background-image: url(./img/logo1.png);
+  display: block;
+  padding: 5vh;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.nav {
+  width: 100%;
+  top: 0;
+  z-index: 9;
+  position: fixed;
+  background-color: #f6f5f0;
+  border-bottom: 1px solid #c8c8c8;
+}
+.detail_poster {
+  margin-top: 10px;
+  background-color:#f6f5f0;
+
+  padding: 10px;
+}
